@@ -23,3 +23,6 @@ If uses other files of .csv, then:
 ```
 python main.py type-your-name-file-here.csv
 ```
+The link below will show instructions to run program.
+https://youtu.be/YXg8qWp_GWw
+
