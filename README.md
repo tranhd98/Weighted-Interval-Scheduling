@@ -1,5 +1,6 @@
 # Name
-Weighted Interval Scheduling
+Weighted Interval Scheduling<br/>
+
 A work by: Hung Tran
 
 # Description
